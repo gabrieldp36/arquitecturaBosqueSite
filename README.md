@@ -1,4 +1,4 @@
-![Portada](https://github.com/gabrieldp36/techPROAudifonos/assets/88417383/25a78b1c-0e49-4c70-882f-c1f4abba8972)
+![portada](https://github.com/gabrieldp36/arquitecturaBosqueSite/assets/88417383/81fb5d29-9253-48c2-ab12-c55200cd1c72)
 
 # Arquitectura Bosque.
 
@@ -11,5 +11,5 @@ Adicionalmente, el sitio cuenta con animaciones desarrolladas mediante css.
 Para visitar el sitio pueden hacer click en el siguiente link:
 
 ```
-https://techpro-gdp.netlify.app
+https://arquitectura-bosque-gdp.netlify.app
 ```
