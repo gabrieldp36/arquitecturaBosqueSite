@@ -159,6 +159,12 @@ img {
     }
 }
 
+@media(min-width: 1600px) {
+    .contenido-header {
+        height: calc( 85rem - 4rem);
+    }
+}
+
 .nombre-sitio {
     font-size: 3.3rem;
     font-weight: 300;
